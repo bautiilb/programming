@@ -1,0 +1,7 @@
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\03_ParImpar\bin\Debug\03_ParImpar.exe.config
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\03_ParImpar\bin\Debug\03_ParImpar.exe
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\03_ParImpar\bin\Debug\03_ParImpar.pdb
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\03_ParImpar\obj\Debug\03_ParImpar.csproj.AssemblyReference.cache
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\03_ParImpar\obj\Debug\03_ParImpar.csproj.CoreCompileInputs.cache
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\03_ParImpar\obj\Debug\03_ParImpar.exe
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\03_ParImpar\obj\Debug\03_ParImpar.pdb

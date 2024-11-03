@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_HolaMundo", "01_HolaMund
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_SumaDeDosNumeros", "02_SumaDeDosNumeros\02_SumaDeDosNumeros.csproj", "{6189D022-06BA-4269-B33A-D4A64ACBBF2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_ParImpar", "03_ParImpar\03_ParImpar.csproj", "{5E0799CE-E045-4DE3-B324-3E201FC5F172}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6189D022-06BA-4269-B33A-D4A64ACBBF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6189D022-06BA-4269-B33A-D4A64ACBBF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6189D022-06BA-4269-B33A-D4A64ACBBF2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E0799CE-E045-4DE3-B324-3E201FC5F172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0799CE-E045-4DE3-B324-3E201FC5F172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0799CE-E045-4DE3-B324-3E201FC5F172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0799CE-E045-4DE3-B324-3E201FC5F172}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\BAUTI\\Documents\\GitHub\\programming\\Ejercicios\\C#\\F\u00E1ciles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6189D022-06BA-4269-B33A-D4A64ACBBF2A}|02_SumaDeDosNumeros\\02_SumaDeDosNumeros.csproj|c:\\users\\bauti\\documents\\github\\programming\\ejercicios\\c#\\f\u00E1ciles\\02_sumadedosnumeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6189D022-06BA-4269-B33A-D4A64ACBBF2A}|02_SumaDeDosNumeros\\02_SumaDeDosNumeros.csproj|solutionrelative:02_sumadedosnumeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E0799CE-E045-4DE3-B324-3E201FC5F172}|03_ParImpar\\03_ParImpar.csproj|c:\\users\\bauti\\documents\\github\\programming\\ejercicios\\c#\\f\u00E1ciles\\03_parimpar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0799CE-E045-4DE3-B324-3E201FC5F172}|03_ParImpar\\03_ParImpar.csproj|solutionrelative:03_parimpar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,13 +48,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BAUTI\\Documents\\GitHub\\programming\\Ejercicios\\C#\\F\u00E1ciles\\02_SumaDeDosNumeros\\Program.cs",
-              "RelativeDocumentMoniker": "02_SumaDeDosNumeros\\Program.cs",
-              "ToolTip": "C:\\Users\\BAUTI\\Documents\\GitHub\\programming\\Ejercicios\\C#\\F\u00E1ciles\\02_SumaDeDosNumeros\\Program.cs",
-              "RelativeToolTip": "02_SumaDeDosNumeros\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "DocumentMoniker": "C:\\Users\\BAUTI\\Documents\\GitHub\\programming\\Ejercicios\\C#\\F\u00E1ciles\\03_ParImpar\\Program.cs",
+              "RelativeDocumentMoniker": "03_ParImpar\\Program.cs",
+              "ToolTip": "C:\\Users\\BAUTI\\Documents\\GitHub\\programming\\Ejercicios\\C#\\F\u00E1ciles\\03_ParImpar\\Program.cs",
+              "RelativeToolTip": "03_ParImpar\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T23:26:32.684Z",
+              "WhenOpened": "2024-11-03T23:40:52.483Z",
               "EditorCaption": ""
             }
           ]
