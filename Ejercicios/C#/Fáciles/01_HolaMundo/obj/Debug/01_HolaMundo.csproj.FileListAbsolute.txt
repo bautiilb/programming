@@ -1,0 +1,7 @@
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\01_HolaMundo\bin\Debug\01_HolaMundo.exe.config
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\01_HolaMundo\bin\Debug\01_HolaMundo.exe
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\01_HolaMundo\bin\Debug\01_HolaMundo.pdb
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\01_HolaMundo\obj\Debug\01_HolaMundo.csproj.AssemblyReference.cache
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\01_HolaMundo\obj\Debug\01_HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\01_HolaMundo\obj\Debug\01_HolaMundo.exe
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\01_HolaMundo\obj\Debug\01_HolaMundo.pdb
