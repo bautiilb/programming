@@ -1,0 +1,7 @@
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\02_SumaDeDosNumeros\bin\Debug\02_SumaDeDosNumeros.exe.config
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\02_SumaDeDosNumeros\bin\Debug\02_SumaDeDosNumeros.exe
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\02_SumaDeDosNumeros\bin\Debug\02_SumaDeDosNumeros.pdb
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\02_SumaDeDosNumeros\obj\Debug\02_SumaDeDosNumeros.csproj.AssemblyReference.cache
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\02_SumaDeDosNumeros\obj\Debug\02_SumaDeDosNumeros.csproj.CoreCompileInputs.cache
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\02_SumaDeDosNumeros\obj\Debug\02_SumaDeDosNumeros.exe
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\02_SumaDeDosNumeros\obj\Debug\02_SumaDeDosNumeros.pdb

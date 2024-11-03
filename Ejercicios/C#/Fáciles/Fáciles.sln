@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_HolaMundo", "01_HolaMundo\01_HolaMundo.csproj", "{B93616FE-F10C-490A-BB5A-399ADD03B5EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_SumaDeDosNumeros", "02_SumaDeDosNumeros\02_SumaDeDosNumeros.csproj", "{6189D022-06BA-4269-B33A-D4A64ACBBF2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B93616FE-F10C-490A-BB5A-399ADD03B5EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B93616FE-F10C-490A-BB5A-399ADD03B5EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B93616FE-F10C-490A-BB5A-399ADD03B5EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6189D022-06BA-4269-B33A-D4A64ACBBF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6189D022-06BA-4269-B33A-D4A64ACBBF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6189D022-06BA-4269-B33A-D4A64ACBBF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6189D022-06BA-4269-B33A-D4A64ACBBF2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

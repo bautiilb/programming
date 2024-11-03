@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\BAUTI\\Documents\\GitHub\\programming\\Ejercicios\\C#\\F\u00E1ciles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B93616FE-F10C-490A-BB5A-399ADD03B5EB}|01_HolaMundo\\01_HolaMundo.csproj|c:\\users\\bauti\\documents\\github\\programming\\ejercicios\\c#\\f\u00E1ciles\\01_holamundo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B93616FE-F10C-490A-BB5A-399ADD03B5EB}|01_HolaMundo\\01_HolaMundo.csproj|solutionrelative:01_holamundo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6189D022-06BA-4269-B33A-D4A64ACBBF2A}|02_SumaDeDosNumeros\\02_SumaDeDosNumeros.csproj|c:\\users\\bauti\\documents\\github\\programming\\ejercicios\\c#\\f\u00E1ciles\\02_sumadedosnumeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6189D022-06BA-4269-B33A-D4A64ACBBF2A}|02_SumaDeDosNumeros\\02_SumaDeDosNumeros.csproj|solutionrelative:02_sumadedosnumeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,13 +48,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BAUTI\\Documents\\GitHub\\programming\\Ejercicios\\C#\\F\u00E1ciles\\01_HolaMundo\\Program.cs",
-              "RelativeDocumentMoniker": "01_HolaMundo\\Program.cs",
-              "ToolTip": "C:\\Users\\BAUTI\\Documents\\GitHub\\programming\\Ejercicios\\C#\\F\u00E1ciles\\01_HolaMundo\\Program.cs*",
-              "RelativeToolTip": "01_HolaMundo\\Program.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\BAUTI\\Documents\\GitHub\\programming\\Ejercicios\\C#\\F\u00E1ciles\\02_SumaDeDosNumeros\\Program.cs",
+              "RelativeDocumentMoniker": "02_SumaDeDosNumeros\\Program.cs",
+              "ToolTip": "C:\\Users\\BAUTI\\Documents\\GitHub\\programming\\Ejercicios\\C#\\F\u00E1ciles\\02_SumaDeDosNumeros\\Program.cs",
+              "RelativeToolTip": "02_SumaDeDosNumeros\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T23:14:47.803Z",
+              "WhenOpened": "2024-11-03T23:26:32.684Z",
               "EditorCaption": ""
             }
           ]
