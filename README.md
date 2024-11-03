@@ -1,4 +1,4 @@
-# Programming Exercises Repository
+# Programming Repository
 
 ## Descripción
 Este repositorio está diseñado como un espacio personal para documentar mi progreso en programación. Acá guardo ejercicios y proyectos que realizo en diferentes lenguajes, con el objetivo de mejorar mis habilidades y eventualmente construir un portfolio.
