@@ -1,0 +1,7 @@
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\05_AreaDeUnCirulo\bin\Debug\05_AreaDeUnCirulo.exe.config
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\05_AreaDeUnCirulo\bin\Debug\05_AreaDeUnCirulo.exe
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\05_AreaDeUnCirulo\bin\Debug\05_AreaDeUnCirulo.pdb
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\05_AreaDeUnCirulo\obj\Debug\05_AreaDeUnCirulo.csproj.AssemblyReference.cache
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\05_AreaDeUnCirulo\obj\Debug\05_AreaDeUnCirulo.csproj.CoreCompileInputs.cache
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\05_AreaDeUnCirulo\obj\Debug\05_AreaDeUnCirulo.exe
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\05_AreaDeUnCirulo\obj\Debug\05_AreaDeUnCirulo.pdb
