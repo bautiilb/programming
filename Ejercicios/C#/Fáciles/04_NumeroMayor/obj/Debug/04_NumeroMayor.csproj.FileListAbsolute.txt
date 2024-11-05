@@ -1,0 +1,7 @@
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\04_NumeroMayor\bin\Debug\04_NumeroMayor.exe.config
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\04_NumeroMayor\bin\Debug\04_NumeroMayor.exe
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\04_NumeroMayor\bin\Debug\04_NumeroMayor.pdb
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\04_NumeroMayor\obj\Debug\04_NumeroMayor.csproj.AssemblyReference.cache
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\04_NumeroMayor\obj\Debug\04_NumeroMayor.csproj.CoreCompileInputs.cache
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\04_NumeroMayor\obj\Debug\04_NumeroMayor.exe
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\04_NumeroMayor\obj\Debug\04_NumeroMayor.pdb
