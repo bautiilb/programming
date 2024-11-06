@@ -1,0 +1,7 @@
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\06_ConversionDeTemperatura\bin\Debug\06_ConversionDeTemperatura.exe.config
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\06_ConversionDeTemperatura\bin\Debug\06_ConversionDeTemperatura.exe
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\06_ConversionDeTemperatura\bin\Debug\06_ConversionDeTemperatura.pdb
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\06_ConversionDeTemperatura\obj\Debug\06_ConversionDeTemperatura.csproj.AssemblyReference.cache
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\06_ConversionDeTemperatura\obj\Debug\06_ConversionDeTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\06_ConversionDeTemperatura\obj\Debug\06_ConversionDeTemperatura.exe
+C:\Users\BAUTI\Documents\GitHub\programming\Ejercicios\C#\Fáciles\06_ConversionDeTemperatura\obj\Debug\06_ConversionDeTemperatura.pdb
